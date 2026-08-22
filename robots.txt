@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miltonductcleaning.ca/sitemap-index.xml
